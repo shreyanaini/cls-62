@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+
+}
+.line{
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+#games img
+{
+    margin-right:20px;
+    transition: transform .2s;
+}
+#myCarousel{
+    background-color: coral;
+}
+ img{
+margin:50px;
+}
+p{
+    font-size:20px;
+}
